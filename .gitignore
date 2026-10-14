@@ -1,0 +1,9 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Local tooling
+node_modules/
+.netlify/
